@@ -1,0 +1,22 @@
+C:\Users\426115624\Documents\SQL com C#\bin\Debug\net8.0\SQL com C#.exe
+C:\Users\426115624\Documents\SQL com C#\bin\Debug\net8.0\SQL com C#.deps.json
+C:\Users\426115624\Documents\SQL com C#\bin\Debug\net8.0\SQL com C#.runtimeconfig.json
+C:\Users\426115624\Documents\SQL com C#\bin\Debug\net8.0\SQL com C#.dll
+C:\Users\426115624\Documents\SQL com C#\bin\Debug\net8.0\SQL com C#.pdb
+C:\Users\426115624\Documents\SQL com C#\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\426115624\Documents\SQL com C#\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\426115624\Documents\SQL com C#\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\426115624\Documents\SQL com C#\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\426115624\Documents\SQL com C#\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\426115624\Documents\SQL com C#\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\SQL com C#.csproj.AssemblyReference.cache
+C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\SQL com C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\SQL com C#.AssemblyInfoInputs.cache
+C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\SQL com C#.AssemblyInfo.cs
+C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\SQL com C#.csproj.CoreCompileInputs.cache
+C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\SQL com C#.csproj.Up2Date
+C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\SQL com C#.dll
+C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\refint\SQL com C#.dll
+C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\SQL com C#.pdb
+C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\SQL com C#.genruntimeconfig.cache
+C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\ref\SQL com C#.dll
