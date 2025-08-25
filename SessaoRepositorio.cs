@@ -2,10 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using System.Data.SqlClient;
+    using System.Data.SqlClient;
 
 namespace SQL_com_C_
 {
+  
 
     public class SessaoRepositorio
     {
