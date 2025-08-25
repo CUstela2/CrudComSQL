@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 
 namespace SQL_com_C_
 {
-    using System;
 
     public class Sessao
     {

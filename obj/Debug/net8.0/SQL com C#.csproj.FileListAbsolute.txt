@@ -20,3 +20,4 @@ C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\refint\SQL com C#.dll
 C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\SQL com C#.pdb
 C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\SQL com C#.genruntimeconfig.cache
 C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\ref\SQL com C#.dll
+C:\Users\426115624\Documents\SQL com C#\obj\Debug\net8.0\SQL com C#.sourcelink.json
